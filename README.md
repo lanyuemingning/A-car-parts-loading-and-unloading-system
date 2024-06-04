@@ -5,6 +5,7 @@ English
 2. Simplify the script for disassembly and assembly, only configure parameters, and assign the corresponding object to the corresponding manager.
 3. Dynamically generate parts button click events to reduce development costs (just create a button and modify the button name
 4. Some invalid content has not been deleted, please pay attention to distinguish
+5. Have Much BUG needed to fixing
 
 中文
 
@@ -12,3 +13,4 @@ English
 2. 将实现拆卸和组装的脚本简单化，仅需配置参数后，放于对应的物体在赋值给相应的管理器就可以实现。
 3. 动态生成零件按钮点击事件，降低开发成本（仅需创建一个按钮并修改按钮名字）
 4. 存在一部分无效内容未删除，请注意分辨
+5. 存在很多BUG尚未修复
